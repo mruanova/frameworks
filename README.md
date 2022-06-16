@@ -1,2 +1,2 @@
-# javascript frameworks
-c3 chart
+# javascript frameworks c3 chart
+https://c3js.org/gettingstarted.html
